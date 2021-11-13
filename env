@@ -1,0 +1,1 @@
+MONGODB_CONNECT = "mongodb+srv://jonatan:1234@cluster0.tkdeg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
